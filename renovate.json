@@ -5,6 +5,7 @@
     "config:base"
   ],
   "prHourlyLimit": 3,
+  "enabledManagers": ["npm"],
   "packageRules": [
     {
       "matchUpdateTypes": ["major"],
